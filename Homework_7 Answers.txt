@@ -1,0 +1,8 @@
+EX: 16.1
+
+The MNIST dataset training time was about 699 seconds and the Fashion_MNIST dataset was 701 seconds.
+The MNIST dataset training time was slightly faster than the Fashion_MNIST, but overall training times were similar.
+
+EX: 16.4
+
+Accuracy may be slightly better, but speed will greatly decrease due to number of parameters.
